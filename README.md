@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:    G N AGA GOWTHAM     </h3>
+<h3>Name:    G NAGA GOWTHAM     </h3>
 <h3>Register Number:   212224060086    </h3>
 <H3>Aim:</H3>
 <p>
